@@ -1,6 +1,7 @@
 @import url("navbar.css");
 @import url("hero.css");
 @import url("footer.css");
+@import url("ingfo.css");
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
 
 :root {
@@ -8,6 +9,10 @@
     --secondary-color: #dab7a6;
     --textcolor: #2d2826;
     --subtextcolor: #98867f;
+
+    --coolblack: #221322;
+    --coolcolor1: #d8807c;
+    --coolcolor2: #fef591;
 }
 
 body {
@@ -15,7 +20,8 @@ body {
     margin: 0;
     margin-bottom: 50px;
     padding: 0;
-    overflow-x: hidden;
+    overflow-y: scroll;
+    overflow-x:scroll;
 }
 
 h1 {

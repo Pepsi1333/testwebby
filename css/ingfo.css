@@ -1,0 +1,20 @@
+.section__ingfo {
+    background-color: var(--coolblack);
+    padding: 5%;
+}
+
+.ingfo__txt {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#ingfo__txt-header {
+    display: flex;
+    flex-direction: column;
+}
+
+#ingfo__txt-header h1 {
+    color: var(--coolcolor2);
+    margin-bottom: -10px;
+}
