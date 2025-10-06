@@ -4,7 +4,7 @@
 }
 
 .ingfoimg {
-    width: 50%;
+    width: 25%;
     height: auto;
 }
 
@@ -23,5 +23,6 @@
     color: var(--coolcolor2);
     margin-bottom: -10px;
 }
+
 
 
