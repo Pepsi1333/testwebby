@@ -3,7 +3,7 @@
     padding: 5%;
 }
 
-.ingfoimg {
+#ingfoimg {
     width: 50%;
     height: auto;
 }
@@ -23,3 +23,4 @@
     color: var(--coolcolor2);
     margin-bottom: -10px;
 }
+
