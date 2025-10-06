@@ -3,6 +3,11 @@
     padding: 5%;
 }
 
+.ingfoimg {
+    width: 50%;
+    height: auto;
+}
+
 .ingfo__txt {
     display: flex;
     flex-direction: row;
